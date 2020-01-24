@@ -1,0 +1,9 @@
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\bin\Debug\hackerscrapecmd.exe.config
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\bin\Debug\hackerscrapecmd.exe
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\bin\Debug\hackerscrapecmd.pdb
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\bin\Debug\HtmlAgilityPack.dll
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\bin\Debug\HtmlAgilityPack.pdb
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\bin\Debug\HtmlAgilityPack.xml
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\obj\Debug\hackerscrapecmd.csprojResolveAssemblyReference.cache
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\obj\Debug\hackerscrapecmd.exe
+C:\Dev\Projects\hackerscrape\hackerscrapecmd\hackerscrapecmd\obj\Debug\hackerscrapecmd.pdb
